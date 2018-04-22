@@ -21,4 +21,5 @@ yarn-debug.log*
 yarn-error.log*
 
 node_modules/
-config/keys.jssendgrid.env
+config/keys.js
+sendgrid.env
